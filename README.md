@@ -13,7 +13,7 @@
 ### 🤝 **Collaboration Corner: Joining Forces for Innovation **
 - **Technical Writing and Knowledge Base Development**
 
-### 🫶🏽 **Calling All Innovators: Areas Needing Collaborative Input **
+###  **Calling All Innovators: Areas Needing Collaborative Input **
 - **Projects ideas for my portfolio**
 
 <hr>
@@ -36,7 +36,7 @@
     <td>When I'm not tapping away at the keyboard or honing my craft, you'll find me lost in the rhythm of samba or gracefully expressing myself through lyrical dance!</td>
   </tr>  
 </table>
-<h2>Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <table>
   <tr>
     <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </td>
