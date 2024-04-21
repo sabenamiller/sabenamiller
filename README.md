@@ -18,19 +18,26 @@
 
 <hr>
 
-### 📚 **Explore My Portfolio: Dive into My Projects **
-- [www.sabmill.com](www.sabmill.com)
+<h2>Let's Stay Connected</h2>
+<table>
+  <tr>
+    <th>📚 Explore My Portfolio</th>
+    <td>[www.sabmill.com](www.sabmill.com)</td>
+  </tr>
+  <tr>
+    <th>💬 Questions Welcome</th>  
+    <td>Though my role hasn't been in development, I've been the bridge between code and user experience, fluent in both languages. With years of experience, I've translated developers' visions into user-friendly solutions, ensuring seamless rollouts</td>      
+  </tr>  
+  <tr>
+    <th>📫 Connect with Me!</th>
+    <td>sabmill2020@gmail.com</td>
+  </tr>
+    <th>💃🏼 Whimsical Wisdom</th>
+    <td>When I'm not tapping away at the keyboard or honing my craft, you'll find me lost in the rhythm of samba or gracefully expressing myself through lyrical dance!</td>
+  </tr>  
+</table>
 
-### 💬 Questions Welcome: Sharing My Expertise
-- **Though my role hasn't been in development, I've been the bridge between code and user experience, fluent in both languages. With years of experience, I've translated developers' visions into user-friendly solutions, ensuring seamless rollouts**
 
-### 📫 Connect with Me!
-- **sabmill2020@gmail.com**
-
-### 💃🏼 Whimsical Wisdom
-- ****When I'm not tapping away at the keyboard or honing my craft, you'll find me lost in the rhythm of samba or gracefully expressing myself through lyrical dance!****
-<hr>
-<b
 
 
 
