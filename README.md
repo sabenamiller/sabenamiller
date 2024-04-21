@@ -1,6 +1,5 @@
 <img src="https://github.com/sabenamiller/sabenamiller/blob/main/header.png" alt="banner">
 
-
 <h1 align="center">🌟 Welcome to my page! 🌟</h1>
 <h3 align="center">A passionate Freelance eLearning Developer and Technical Writer</h3>
 
