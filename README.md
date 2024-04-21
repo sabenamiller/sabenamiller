@@ -46,6 +46,7 @@
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
     <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </td>
     <td><a href="https://icongr.am/devicon/atom-original-wordmark.svg?size=128&color=currentColor"><img src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" alt="atom" width="40" height="40"> </a> </td>
+    <td><a href="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor"><img src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor" alt="trello" width="40" height="40"</td>
   </tr>
 </table>
 
