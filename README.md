@@ -18,7 +18,7 @@
 
 <hr>
 
-<h2 align'"center">Let's Stay Connected</h2>
+<h2 align="center">Let's Stay Connected</h2>
 <table>
   <tr>
     <th>📚 Explore My Portfolio</th>
