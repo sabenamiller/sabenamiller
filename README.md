@@ -4,16 +4,16 @@
 
 <h4>This is my repository for portfolios encompassing technical writing, web and knowledgebase development, e-learning courses, and personal experiments aimed at self-improvement.</h4>
 
-<h3> 💦 **Project Endeavors:Crafting a Spectrum of Solutions **</h3>
-**Adobe Captivate eLearning Mini-Course**
+#### 💦 **Project Endeavors:Crafting a Spectrum of Solutions **
+- **Adobe Captivate eLearning Mini-Course**
 
-### 📒 **Learning the Ropes: My Journey into Development **
+#### 📒 **Learning the Ropes: My Journey into Development **
 - **HTML, CSS, JavaScript, Responsive Web Design**
 
-### 🤝 **Collaboration Corner: Joining Forces for Innovation **
+#### 🤝 **Collaboration Corner: Joining Forces for Innovation **
 - **Technical Writing and Knowledge Base Development**
 
-###  **Calling All Innovators: Areas Needing Collaborative Input **
+####  **Calling All Innovators: Areas Needing Collaborative Input **
 - **Projects ideas for my portfolio**
 
 <hr>
